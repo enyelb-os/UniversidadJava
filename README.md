@@ -1,3 +1,3 @@
 # UniversidadJava
 Proyectos Universitarios 
-Materias Introducción a la teoría de grafos, Estructuras de datos
+Materias Introducción a la teoría de grafos, Estructuras de datos, Investigación de operaciones

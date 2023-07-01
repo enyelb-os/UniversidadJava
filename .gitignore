@@ -4,6 +4,9 @@
 *.iml
 *.ipr
 out/
+*.project
+*.classpath
+*.settings
 
 # Compiled class file
 *.class
